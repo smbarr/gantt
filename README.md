@@ -10,5 +10,4 @@ Jupyter notebook to generate project timelines
 
 # Limitations
 - Built for projects lasting 6 months to a few years in length. Needs to be generalized to work on smaller timelines
-- Does not support task dependencies
 - Does not support critical path
